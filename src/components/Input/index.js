@@ -5,7 +5,7 @@ import styled from 'styled-components'
 const InputLayout = styled.input`
     padding: 10px;
     display: block;
-    margin: 5px;
+    margin: 23px 7px;
     width: 85%;
     border-radius: 5px;
 `;

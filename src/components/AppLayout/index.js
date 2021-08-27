@@ -5,7 +5,7 @@ const AppLayout = styled.div`
     margin: 0;
     width: 100%;
     height: 100vh;
-    background-color: yellow;
+    background-image: url("../../../assets/images/background.png");
 `;
 
 const Layout = ({ children }) => {
